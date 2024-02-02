@@ -137,7 +137,7 @@ const Home: NextPage = () => {
           <BugAntIcon className="h-8 w-8 fill-secondary" />
           <div className="py-4"></div>
           <button onClick={handleUpload} className="btn btn-primary" disabled={loading}>
-            Generate
+            Vercel Test Preview
           </button>
           <div className="mb-4"></div>
           <div> 
